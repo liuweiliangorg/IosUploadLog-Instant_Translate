@@ -1,0 +1,4 @@
+Bundle ID 资源匹配：com.instant.translate.acolhua -> UCS8U4AC7Q
+证书查询结果：2 个 [ 'DEVELOPMENT', 'DISTRIBUTION' ]
+签名 profile 新建：bundleId=com.instant.translate.acolhua profile=appstore-com.instant.translate.acolhua-20261106034715594 [id=XNDW3Z8K49] uuid=8b2b0600-718b-4350-8d3d-a03ae7d0b8dd
+Bundle ID 查询未命中精确结果：expected=com.instant.translate.acolhua.DefaultTranslationProvider returned=empty
