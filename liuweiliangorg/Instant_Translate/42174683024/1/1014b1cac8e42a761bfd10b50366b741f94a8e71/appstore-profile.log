@@ -1,0 +1,10 @@
+Bundle ID 资源匹配：com.instant.translate.acolhua -> UCS8U4AC7Q
+证书查询结果：2 个 [ 'DEVELOPMENT', 'DISTRIBUTION' ]
+签名 profile 新建：bundleId=com.instant.translate.acolhua profile=appstore-com.instant.translate.acolhua-20261106062908837 [id=3CFASQ62U8] uuid=0303252d-4ba2-491d-b959-1f963c5a778c
+Bundle ID 资源匹配：com.instant.translate.acolhua.DefaultTranslationProvider -> BAJ22ATHWV
+签名 profile 新建：bundleId=com.instant.translate.acolhua.DefaultTranslationProvider profile=appstore-com.instant.translate.acolhua.DefaultTranslationProvider-20261106062909365 [id=R3834P97G8] uuid=d2b23463-736c-44aa-8d47-dee2cea77705
+Bundle ID 资源匹配：com.instant.translate.acolhua.ScreenTranslationBroadcast -> 6S6LKZK6D5
+签名 profile 新建：bundleId=com.instant.translate.acolhua.ScreenTranslationBroadcast profile=appstore-com.instant.translate.acolhua.ScreenTranslationBroadcast-20261106062909805 [id=JUG7T6UMRZ] uuid=b2b9571e-aa21-4ab5-b2f4-2e21d6a06592
+Bundle ID 资源匹配：com.instant.translate.acolhua.TranslateKeyboard -> 49LQ58FBT9
+签名 profile 新建：bundleId=com.instant.translate.acolhua.TranslateKeyboard profile=appstore-com.instant.translate.acolhua.TranslateKeyboard-20261106062910266 [id=3W95MCV7ZW] uuid=3d553b18-99c8-4c13-9b1c-3b3e04083370
+签名 bundleIds: com.instant.translate.acolhua(appstoreconnect, uuid=0303252d-4ba2-491d-b959-1f963c5a778c), com.instant.translate.acolhua.DefaultTranslationProvider(appstoreconnect, uuid=d2b23463-736c-44aa-8d47-dee2cea77705), com.instant.translate.acolhua.ScreenTranslationBroadcast(appstoreconnect, uuid=b2b9571e-aa21-4ab5-b2f4-2e21d6a06592), com.instant.translate.acolhua.TranslateKeyboard(appstoreconnect, uuid=3d553b18-99c8-4c13-9b1c-3b3e04083370)

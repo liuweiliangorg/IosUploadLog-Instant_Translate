@@ -1,0 +1,19 @@
+已更新 TargetAttributes 手动签名 target=4
+已更新签名配置：com.instant.translate.acolhua.DefaultTranslationProvider(2), com.instant.translate.acolhua(2), com.instant.translate.acolhua.TranslateKeyboard(2), com.instant.translate.acolhua.ScreenTranslationBroadcast(2)；手动签名 target=4；项目级清理=0；xcconfig=0
+/Users/runner/work/Instant_Translate/Instant_Translate/.github/workflows/xcode-signing-verify.ts:281
+          throw new Error(
+                ^
+
+Error: 签名能力校验失败：target=InstantTranslate bundleId=com.instant.translate.acolhua 声明了 com.apple.developer.translation-app，但 profile=appstore-com.instant.translate.acolhua-20261106062908837 未包含该能力。请先在 Apple Developer 的 App ID 启用 Translation 能力并重新生成 Profile。
+    at main (/Users/runner/work/Instant_Translate/Instant_Translate/.github/workflows/xcode-signing-verify.ts:281:17)
+    at fs (/Users/runner/work/Instant_Translate/Instant_Translate/.github/workflows/xcode-signing-verify.ts:337:1)
+    at Object.<anonymous> (/Users/runner/work/Instant_Translate/Instant_Translate/.github/workflows/xcode-signing-verify.ts:337:6)
+    at Module._compile (node:internal/modules/cjs/loader:1929:14)
+    at Object.transformer (/Users/runner/.npm/_npx/fd45a72a545557e9/node_modules/tsx/dist/register-B1c7OH6V.cjs:22:2188)
+    at Module.load (node:internal/modules/cjs/loader:1651:32)
+    at Module._load (node:internal/modules/cjs/loader:1443:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+    at loadCJSModuleWithModuleLoad (node:internal/modules/esm/translators:372:15)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/translators:244:9)
+
+Node.js v24.22.1
